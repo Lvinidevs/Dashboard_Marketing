@@ -1,5 +1,6 @@
 # Marketing Dashboard
 Data analysis and Business Intelligence
+Microsoft Power BI
 
 <img src="Modelo marketing.PNG" width="" height=""><br>
 <img src="Modelo marketing_2.PNG" width="" height=""><br>
