@@ -1,7 +1,7 @@
 # Marketing Dashboard
 Data analysis and Business Intelligence
 
-<img src="" width="" height="">
+<img src="Modelo marketing.PNG" width="" height="">
 
 
 
